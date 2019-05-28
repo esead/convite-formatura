@@ -1,4 +1,4 @@
-site_name: Convite
+site_name: Formatura Licenciatura em Matemática EaD UFRB
 site_url: https://disponha.org
 site_description: 'A web reference of common baseball statistics.'
 copyright: '&copy; 2019 Superintendência de Educação Aberta e a Distância - SEAD/UFRB.'
@@ -6,20 +6,19 @@ google_analytics:
     - 'UA-107693948-1'
     - 'auto'
 site_author: Carlos André
-repo_name: Projeto GitHub
-repo_url: https://seadufrb.github.io/ebooks/
 edit_uri: ''
 pages:
-    - Home: index.md
     - Convite:
         - 'Capa': Convite/capa.md
         - 'Identificação': Convite/identificacao.md
         - 'Nome da Turma': Convite/nome-turma.md
         - 'Mensagem': Convite/mensagem.md
-        - 'Agradecimentos': Convite/producao.md
-        - 'Formandos Polo xxx': Convite/apresentacao.md
-        - 'Formandos Polo yyy': Convite/introducao.md
-        - 'Mensagem Comissão': Convite/capa-fundo.md
+        - 'Agradecimentos': Convite/agradecimentos.md
+        - 'Formandos Pólo Ipirá ': Convite/formandos-polo-ipira.md
+        - 'Formandos Pólo Macaúbas': Convite/formandos-polo-macaubas.md
+        - 'Formandos Pólo Rio Real': Convite/formandos-polo-rio-real.md
+        - 'Formandos Pólo Vitória da Conquista': Convite/formandos-polo-vitoria-da-conquista.md
+        - 'Mensagem Comissão': Convite/mensagem-comissao.md
 theme:
   name: 'material'
   language: 'pt'

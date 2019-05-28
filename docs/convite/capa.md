@@ -7,7 +7,6 @@ body  {
 </style>
 
 
-
 <center>
 
   <p>Imagem de exemplo</p>
