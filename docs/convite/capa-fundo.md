@@ -1,5 +1,5 @@
 
-# **Capa Fundo**
+# **Mensagem da Comissão**
 
 
 <style>
@@ -47,10 +47,6 @@
 
 <center>
 
-<img src="../imagens/capafundo.jpg" alt="Avatar" style="width:60%">
 
 
-
-<button class="button"><a href="https://educapes.capes.gov.br/handle/capes/205590" target="_blank"><span style="color:#FFF"> Ebook PDF </a></span></button>
-
- </center>
+</center>

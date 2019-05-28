@@ -1,4 +1,4 @@
-site_name: SEAD Ebooks
+site_name: Convite
 site_url: https://disponha.org
 site_description: 'A web reference of common baseball statistics.'
 copyright: '&copy; 2019 Superintendência de Educação Aberta e a Distância - SEAD/UFRB.'
@@ -11,45 +11,22 @@ repo_url: https://seadufrb.github.io/ebooks/
 edit_uri: ''
 pages:
     - Home: index.md
-    - Leitura de Ambientes da Mineração:
-        - 'Capa': Leitura de Ambientes da Mineração/capa.md
-        - 'Autores': Leitura de Ambientes da Mineração/contra-capa.md
-        - 'Licença': Leitura de Ambientes da Mineração/creative-commons.md
-        - 'Produção': Leitura de Ambientes da Mineração/producao.md
-        - 'Apresentação': Leitura de Ambientes da Mineração/apresentacao.md
-        - 'Introdução': Leitura de Ambientes da Mineração/introducao.md
-        - 'Ambiente Terrestre e Diversidade': Leitura de Ambientes da Mineração/ambiente.md
-        - 'Recursos Minerais e Energéticos da Terra': Leitura de Ambientes da Mineração/recursos.md
-        - 'Alterações do Ambiente pela Atividade de Mineração': Leitura de Ambientes da Mineração/alteracoes.md
-        - 'Percepção e Análise Ambiental': Leitura de Ambientes da Mineração/percepcao.md
-        - 'Ferramentas para a Leitura de Ambientes': Leitura de Ambientes da Mineração/ferramentas.md
-        - 'Referências': Leitura de Ambientes da Mineração/referencias.md
-        - 'Capa fundo': Leitura de Ambientes da Mineração/capa-fundo.md
-    - O Papel do Fiscal na Administração Pública:
-        - 'Capa': O Papel do Fiscal na Administração Pública/capa.md
-        - 'Autora': O Papel do Fiscal na Administração Pública/contra-capa.md
-        - 'Licença': O Papel do Fiscal na Administração Pública/creative-commons.md
-        - 'Produção': O Papel do Fiscal na Administração Pública/producao.md
-        - 'Apresentação': O Papel do Fiscal na Administração Pública/apresentacao.md
-        - 'Conceitos': O Papel do Fiscal na Administração Pública/introducao.md
-        - 'Definições': O Papel do Fiscal na Administração Pública/definicoes.md
-        - 'Fiscalização dos Contratos': O Papel do Fiscal na Administração Pública/fiscalizacao-dos-contratos.md
-        - 'Sugestões de orientações básicas aos fiscais': O Papel do Fiscal na Administração Pública/sugestoes-fiscais.md
-        - 'Legislação e sites oficiais': O Papel do Fiscal na Administração Pública/legislacao-oficiais.md
-        - 'Modelos dos formulários': O Papel do Fiscal na Administração Pública/modelos-formularios.md
-        - 'Referências': O Papel do Fiscal na Administração Pública/referencias.md
-        - 'Anexos': O Papel do Fiscal na Administração Pública/anexos.md
-        - 'Capa fundo': O Papel do Fiscal na Administração Pública/capa-fundo.md
-        - 'Videoaulas': O Papel do Fiscal na Administração Pública/videoaulas.md
-
-
+    - Convite:
+        - 'Capa': Convite/capa.md
+        - 'Identificação': Convite/identificacao.md
+        - 'Nome da Turma': Convite/nome-turma.md
+        - 'Mensagem': Convite/mensagem.md
+        - 'Agradecimentos': Convite/producao.md
+        - 'Formandos Polo xxx': Convite/apresentacao.md
+        - 'Formandos Polo yyy': Convite/introducao.md
+        - 'Mensagem Comissão': Convite/capa-fundo.md
 theme:
   name: 'material'
   language: 'pt'
   logo: img/logo.png
   palette:
-        primary: 'indigo'
-        accent: 'indigo'
+        primary: 'Blue Grey'
+        accent: 'Blue Grey'
   feature:
     tabs: true
 extra_javascript:

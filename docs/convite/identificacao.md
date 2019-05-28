@@ -2,7 +2,6 @@
 # Identificação
 
 
-
 <center><img src="../imagens/ufrb.png" style="width:101px;height:65px"/></center>
 <center><p><strong>Universidade Federal do Recôncavo da Bahia</strong></p></center>
 <center><p>Silvio Luiz de Oliveira Soglia - Reitor</p></center>
