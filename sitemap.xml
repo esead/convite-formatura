@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://disponha.org/</loc>
-     <lastmod>2019-05-28</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://disponha.org/Convite/capa/</loc>
      <lastmod>2019-05-28</lastmod>
      <changefreq>daily</changefreq>
@@ -26,22 +21,32 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://disponha.org/Convite/producao/</loc>
+     <loc>https://disponha.org/Convite/agradecimentos/</loc>
      <lastmod>2019-05-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://disponha.org/Convite/apresentacao/</loc>
+     <loc>https://disponha.org/Convite/formandos-polo-ipira/</loc>
      <lastmod>2019-05-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://disponha.org/Convite/introducao/</loc>
+     <loc>https://disponha.org/Convite/formandos-polo-macaubas/</loc>
      <lastmod>2019-05-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://disponha.org/Convite/capa-fundo/</loc>
+     <loc>https://disponha.org/Convite/formandos-polo-rio-real/</loc>
+     <lastmod>2019-05-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://disponha.org/Convite/formandos-polo-vitoria-da-conquista/</loc>
+     <lastmod>2019-05-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://disponha.org/Convite/mensagem-comissao/</loc>
      <lastmod>2019-05-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
