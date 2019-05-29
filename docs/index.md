@@ -2,7 +2,7 @@
 <style>
 
 body { 
-  background-image: url("../imagens/fundo6.png");
+  background-image: url("../imagens/fundo7.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
@@ -44,6 +44,6 @@ div.b {
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>2019</strong></font></h1>
 
-
+<center><img src="../imagens/logos.png" style="width:80%"/></center>
   
 </div>

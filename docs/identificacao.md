@@ -2,7 +2,7 @@
 <style>
 
 body { 
-  background-image: url("../imagens/fundo6.png");
+  background-image: url("../imagens/fundo7.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
@@ -35,11 +35,13 @@ body {
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="5"><strong>Centro de Ciências Exatas e Tecnológicas</strong></font></h1>
 
-<p> Diretor do centro</p>
-<p> Vice Diretora do centro </p>
+<p> José Valentim dos Santos Filho - Diretor</p>
+<p> Maria Amelia de Pinho Barbosa Hohlenwerger - Vice Diretora</p>
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="5"><strong>Coordenação Licenciatura em Matemáica EaD</strong></font></h1>
-<p> | Coordenadora </p> 
+<p> Katia Silene Ferreira Lima Rocha - Coordenadora </p> 
+
+<p> Julianna Pinele Santos Porto - Vice Coordenadora </p> 
 
 <center> 
 
@@ -47,19 +49,11 @@ body {
 </center>
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="5"><strong>Superintendência de Educação Aberta e a Distância - SEAD</strong></font></h1>
-
-<center> Adilson Gomes dos Santos- Superintendente | Coordenador UAB</p></center>
-<center><p> Sabrina
- | Coordenador Adjunto UAB</p></center> 
+<center> Adilson Gomes dos Santos- Superintendente - Coordenador UAB</p></center>
+<center><p> Sabrina Carvalho Machado - Coordenadora Adjunta UAB</p></center> 
 
 
-</center>
-
-
-
-
-
-  
+</center> 
 </div>
 
 
