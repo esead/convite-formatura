@@ -2,7 +2,7 @@
 <style>
 
 body { 
-  background-image: url("/fundo7.png");
+  background-image: url("fundo7.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
@@ -27,7 +27,7 @@ div.b {
 <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
 
 <div id="example3">
-<center><img src="/turma2.png" style="width:20%"/></center>
+<center><img src="turma2.png" style="width:20%"/></center>
 
 
 <center> 
@@ -44,6 +44,6 @@ div.b {
 
 <h2><strong>Colação de Grau: 12 de junho de 2019 às 18h dddd</strong></h2>
 
-<center><img src="/logos.png" style="width:80%"/></center>
+<center><img src="logos.png" style="width:80%"/></center>
   
 </div>
