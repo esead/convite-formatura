@@ -415,6 +415,27 @@ body {
   background-origin: content-box;
   background-position: center;
 }
+
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
 </style>
 
 <p><link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet"></p>
@@ -429,6 +450,11 @@ body {
 <p style="text-align: justify;">
 
 </p>
+
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <strong>Alerta</strong> Ainda estamos editando essa página.
+</div>
 
 <p style="text-align: justify;">
 No início deste curso, tudo era novo: o fato de sermos universitários, os colegas vindos de diferentes escolas, lugares e cidades, de diversas idades e personalidades. Nossa! Como era gostosa a sensação de descobrir esse novo mundo! Sentíamo-nos amedrontados em pensar se tínhamos ou não feito a escolha do caminho certo.</p>
