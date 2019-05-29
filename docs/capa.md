@@ -2,7 +2,7 @@
 <style>
 
 body { 
-  background-image: url("../imagens/fundo4.png");
+  background-image: url("../imagens/fundo6.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
@@ -16,6 +16,12 @@ body {
   background-origin: content-box;
   background-position: center;
 }
+
+div.b {
+  font-size: 80px;
+  font-family:'Dancing Script', cursive;
+  color:#BD9E68;
+}
 </style>
 
 <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
@@ -26,9 +32,8 @@ body {
 
 <center> 
 
-
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="12"><strong>Formatura</strong></font></h1>
-
+<div class="b"> <strong>Formatura</strong>
+</div>
 
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Licenciatura em </strong></font></h1>

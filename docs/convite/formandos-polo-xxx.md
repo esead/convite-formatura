@@ -1,4 +1,0 @@
-
-# **Formandos Pólo Macaúbas**
-
-
