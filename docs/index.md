@@ -27,7 +27,7 @@ div.b {
 <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
 
 <div id="example3">
-<center><img src="../imagens/turma2.png" style="width:20%"/></center>
+<center><img src="/imagens/turma2.png" style="width:20%"/></center>
 
 
 <center> 
