@@ -2,20 +2,56 @@
 # Identificação
 
 
-<center><img src="../imagens/ufrb.png" style="width:101px;height:65px"/></center>
-<center><p><strong>Universidade Federal do Recôncavo da Bahia</strong></p></center>
+
+
+
+
+
+
+<style>
+
+body { 
+  background-image: url("../imagens/fundo4.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+}
+
+#example3 {
+  border-radius: 6px;
+  padding: 25px;
+  background-color: white;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  background-position: center;
+}
+</style>
+
+<link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
+
+<div id="example3">
+<center><img src="../imagens/turma2.png" style="width:20%"/></center>
+
+
+<center> 
+
+
+<h1 style="font-family:'Dancing Script', cursive;"><font size="5"><strong>Universidade Federal do Recôncavo da Bahia</strong></font></h1>
+
 <center><p>Silvio Luiz de Oliveira Soglia - Reitor</p></center>
 
 <center><p>Georgina Gonçalves dos Santos - Vice Reitora</p></center>
 
-<center><p><strong>Centro de Ciências Exatas e Tecnológicas</strong></p></center>
+<h1 style="font-family:'Dancing Script', cursive;"><font size="5"><strong>Centro de Ciências Exatas e Tecnológicas</strong></font></h1>
+
+<p> Diretor do centro</p>
+<p> Vice Diretora do centro </p>
 
 <center><p><strong>Coordenação Licenciatura em Matemáica EaD</strong></p></center>
 <p> | Coordenadora </p> 
 
 <center> 
-<p> Diretor </p>
-<p> Vice Diretora </p>
+
 
 </center>
 
@@ -26,6 +62,23 @@
 
 
 </center>
+
+
+
+
+
+  
+</div>
+
+
+
+
+
+
+
+
+
+
 
   
 

@@ -24,8 +24,8 @@ theme:
   language: 'pt'
   logo: img/logo.png
   palette:
-        primary: 'Blue Grey'
-        accent: 'Blue Grey'
+        primary: 'Indigo'
+        accent: 'Indigo'
   feature:
     tabs: true
 extra_javascript:
