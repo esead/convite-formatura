@@ -10,15 +10,15 @@ edit_uri: ''
 pages:
     - Home: index.md
     - Convite:
-        - 'Identificação': identificacao.md
-        - 'Nome da Turma': nome-turma.md
-        - 'Mensagem': mensagem.md
-        - 'Agradecimentos': agradecimentos.md
-        - 'Formandos Pólo Ipirá ': formandos-polo-ipira.md
-        - 'Formandos Pólo Macaúbas': formandos-polo-macaubas.md
-        - 'Formandos Pólo Rio Real': formandos-polo-rio-real.md
-        - 'Formandos Pólo Vitória da Conquista': formandos-polo-vitoria-da-conquista.md
-        - 'Mensagem Comissão': mensagem-comissao.md
+        - 'Identificação': Convite/identificacao.md
+        - 'Nome da Turma': Convite/nome-turma.md
+        - 'Mensagem': Convite/mensagem.md
+        - 'Agradecimentos': Convite/agradecimentos.md
+        - 'Formandos Pólo Ipirá ': Convite/formandos-polo-ipira.md
+        - 'Formandos Pólo Macaúbas': Convite/formandos-polo-macaubas.md
+        - 'Formandos Pólo Rio Real': Convite/formandos-polo-rio-real.md
+        - 'Formandos Pólo Vitória da Conquista': Convite/formandos-polo-vitoria-da-conquista.md
+        - 'Mensagem Comissão': Convite/mensagem-comissao.md
 theme:
   name: 'material'
   language: 'pt'
