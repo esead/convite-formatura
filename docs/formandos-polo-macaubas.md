@@ -21,19 +21,32 @@ body {
 
 <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
 
+
+<center> 
 <div id="example3">
 <center><img src="../imagens/turma2.png" style="width:20%"/></center>
 
 
-<center> 
+
 
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Pólo de Macaúbas</strong></font></h1>
 
 
 
-<center> 
+
+
 <img src="../imagens/formatura.jpg" alt="Avatar" style="width:60%">
+
+<h2><strong>Colação de Grau: 12 de junho de 2019 às 18h</strong></h2>
+
+
+<p> Requerente – Allany Marques Trindade </p>
+
+<p> Juramentista – Nilmárcia Souza Oliveira Lima</p>
+<p> Oradoras –   Ana Lourdes Moreno Rodrigues Silva | Daiana Móia Meira </p> 
+
+
 
 
 <h2><strong>ALESSANDRA VAZ FIGUEIREDO</strong></h2>
