@@ -26,6 +26,9 @@ theme:
   palette:
         primary: 'Indigo'
         accent: 'Indigo'
+  font:
+    text: 'Helvetica'
+    code: 'Helvetica'
   feature:
     tabs: true
 extra_javascript:

@@ -2,7 +2,7 @@
 <style>
 
 body { 
-  background-image: url("fundo7.png");
+  background-image: url("fundo9.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
@@ -20,6 +20,11 @@ body {
 div.b {
   font-size: 70px;
   font-family:'Dancing Script', cursive;
+  color:#BD9E68;
+}
+
+div.c {
+  font-size: 26px;
   color:#BD9E68;
 }
 </style>
@@ -42,8 +47,9 @@ div.b {
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>2019</strong></font></h1>
 
-<h2><strong>Colação de Grau: 12 de junho de 2019 às 18h.</strong></h2>
-<h2><strong>Local: Pólos.</strong></h2>
+<div class="c"><strong>Colação de Grau: 12 de junho de 2019 às 18h.</strong></div>
+
+<h2 style="color:#38425B;"><strong>Local: Pólos.</strong></h2>
 
 <center><img src="logos.png" style="width:80%"/></center>
   

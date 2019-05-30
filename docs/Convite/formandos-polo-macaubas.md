@@ -42,9 +42,6 @@ img {
 <center><img src="../imagens/turma2.png" style="width:20%"/></center>
 
 
-
-
-
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Pólo de Macaúbas</strong></font></h1>
 
 <div class="card">
