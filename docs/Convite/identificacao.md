@@ -38,7 +38,7 @@ body {
 <p> José Valentim dos Santos Filho - Diretor</p>
 <p> Maria Amelia de Pinho Barbosa Hohlenwerger - Vice Diretora</p>
 
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="5"><strong>Coordenação Licenciatura em Matemáica EaD</strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="5"><strong>Coordenação Licenciatura em Matemática EaD</strong></font></h1>
 <p> Katia Silene Ferreira Lima Rocha - Coordenadora </p> 
 
 <p> Julianna Pinele Santos Porto - Vice Coordenadora </p> 
@@ -49,7 +49,7 @@ body {
 </center>
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="5"><strong>Superintendência de Educação Aberta e a Distância - SEAD</strong></font></h1>
-<center> Adilson Gomes dos Santos- Superintendente - Coordenador UAB</p></center>
+<center> Adilson Gomes dos Santos - Superintendente - Coordenador UAB</p></center>
 <center><p> Sabrina Carvalho Machado - Coordenadora Adjunta UAB</p></center> 
 
 

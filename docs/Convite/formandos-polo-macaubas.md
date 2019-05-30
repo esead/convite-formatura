@@ -17,6 +17,21 @@ body {
   background-origin: content-box;
   background-position: center;
 }
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
 </style>
 
 <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
@@ -32,11 +47,10 @@ body {
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Pólo de Macaúbas</strong></font></h1>
 
+<div class="card">
+<img src="../imagens/macaubas.png" alt="Avatar" style="width:100%">
+</div>
 
-
-
-
-<img src="../imagens/formatura.jpg" alt="Avatar" style="width:60%">
 
 <h2><strong>Colação de Grau: 12 de junho de 2019 às 18h</strong></h2>
 
@@ -47,11 +61,9 @@ body {
 <p> Oradoras –   Ana Lourdes Moreno Rodrigues Silva | Daiana Móia Meira </p> 
 
 
+<h2><strong></strong></h2>
 
-
-<h2><strong>ALESSANDRA VAZ FIGUEIREDO</strong></h2>
-
-<h2><strong>ALLANY MARQUES TRINDADE</strong></h2>
+<h2><strong></strong></h2>
 
 </center> 
 

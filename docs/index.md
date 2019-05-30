@@ -18,7 +18,7 @@ body {
 }
 
 div.b {
-  font-size: 80px;
+  font-size: 70px;
   font-family:'Dancing Script', cursive;
   color:#BD9E68;
 }
@@ -42,7 +42,8 @@ div.b {
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>2019</strong></font></h1>
 
-<h2><strong>Colação de Grau: 12 de junho de 2019 às 18h dddd</strong></h2>
+<h2><strong>Colação de Grau: 12 de junho de 2019 às 18h.</strong></h2>
+<h2><strong>Local: Pólos.</strong></h2>
 
 <center><img src="logos.png" style="width:80%"/></center>
   

@@ -16,6 +16,20 @@ body {
   background-origin: content-box;
   background-position: center;
 }
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
 </style>
 
 <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
@@ -31,8 +45,17 @@ body {
 
 
 
+
+
 <center> 
-<img src="../imagens/formatura.jpg" alt="Avatar" style="width:60%">
+
+<div class="card">
+<img src="../imagens/rio_real.png" alt="Avatar" style="width:100%">
+</div>
+
+
+<h2><strong>Colação de Grau: 12 de junho de 2019 às 18h</strong></h2>
+
 
 <p>Formanda: <strong>Juscicleide Rodrigues Valença</strong> </p>
 <p>Madrinha: Clarice Do Nascimento Rodrigues (Mãe Da Formanda)</p>
