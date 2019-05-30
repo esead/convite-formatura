@@ -63,7 +63,7 @@ body {
 }
 
 div.c {
-  font-size: 24px;
+  font-size: 28px;
   font-family:'Dancing Script', cursive;
   color:#BD9E68;
 }
@@ -83,12 +83,34 @@ div.c {
 
 
 <center> 
-<img src="../imagens/formatura.jpg" alt="Avatar" style="width:60%">
+<div class="c"><strong>Colação de Grau: 11 de junho de 2019 às 14h.</strong></div>
+
+<h3 style="color:#38425B;"><strong>Local: Cruz das Almas, CETEC.</strong></h3>
 
 
-<h2><strong>ALESSANDRA VAZ FIGUEIREDO</strong></h2>
+<div class="column">
+    <div class="card2">
+      <center> 
+      <p><strong>Formanda</strong></p> 
+      <div class="c">Anaci Morais dos </div>
+      <div class="c">Santos</div>
+      <p><strong>Madrinha</strong></p>
+      <p> xxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+      </center>
+    </div>
+  </div>
 
-<h2><strong>ALLANY MARQUES TRINDADE</strong></h2>
+  <div class="column">
+    <div class="card2">
+     <p><strong>Formanda</strong></p> 
+        <div class="c">Cristiane Souza dos Santos </div>
+        <p><strong>Madrinha</strong></p>
+        <p>xxxxxxxxxxxxxxxxxxxxxxxxx</p>
+    </div>
+  </div>
+
+<br>
+<br> <p style="color:white;"> hhhhhhhhhhhhhhhhh</p>
 
 </center> 
 

@@ -26,18 +26,18 @@ body {
 
 <center> 
 
-<h1> <strong>Turma:</strong></h1>
+<h1> <strong>Turma</strong></h1>
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Elias Santiago de Assis</strong></font></h1>
 
 
-<h1> <strong>Paraninfo:</strong></h1>
+<h1> <strong>Paraninfo</strong></h1>
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Maria Eunice Souza Mariz </strong></font></h1>
 
 
-<h1><strong>Patrono:</strong></h1>
+<h1><strong>Patrono</strong></h1>
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Jadson de Souza Conceição</strong></font></h1>
 
-<h2> <strong>Professores Homenageados:</strong>
+<h2> <strong>Professores Homenageados</strong>
 <p>Mônica Maria Araújo dos Santos</p>
 <p>Nelian Leal Serafim </p>
 <p>Renê Medeiros de Souza </p>
@@ -50,7 +50,7 @@ body {
 
  </h2>
 
-<h2><strong>Tutores Homenageados: </strong>
+<h2><strong>Tutores Homenageados </strong>
 
 <p>Allan Alves Oliveira</p>
 <p> José Augusto Reis Campos dos Santos</p>
@@ -59,14 +59,14 @@ body {
 <p> Rosenan dos Santos Leandro </p>
 <p> Rose Barbara dos S. Cardoso Azevedo </p>
 <p> Vanielia Ferreira Alves Evangelista </p>
-<p> <strong>(tutores presenciais)</strong></p>
+
 </h2>
 
-<h2> <strong> Amiga da Turma:</strong>
+<h2> <strong> Amiga da Turma</strong>
  <p>Katia Silene Lima Rocha</p>
  </h2>
 
-<h2><strong>Funcionários Homenageados:</strong>
+<h2><strong>Funcionários Homenageados</strong>
 
 <p> Jamile Machado da França Saturnino </p>
 <p> Ramistela Lima Santana</p>

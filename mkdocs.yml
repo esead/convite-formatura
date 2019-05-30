@@ -12,8 +12,9 @@ pages:
     - Convite:
         - 'Identificação': Convite/identificacao.md
         - 'Nome da Turma': Convite/nome-turma.md
-        - 'Mensagem': Convite/mensagem.md
+        - 'Mensagem Inicial': Convite/mensagem.md
         - 'Agradecimentos': Convite/agradecimentos.md
+        - 'Formandos Pólo Sapeaçu': Convite/formandos-polo-sapeacu.md
         - 'Formandos Pólo Ipirá ': Convite/formandos-polo-ipira.md
         - 'Formandos Pólo Macaúbas': Convite/formandos-polo-macaubas.md
         - 'Formandos Pólo Rio Real': Convite/formandos-polo-rio-real.md

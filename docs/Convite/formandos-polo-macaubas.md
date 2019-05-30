@@ -96,14 +96,13 @@ div.c {
 <img src="../imagens/macaubas.png" alt="Avatar" style="width:100%">
 </div>
 
+<br> 
 
-<h2><strong>Colação de Grau: 12 de junho de 2019 às 18h</strong></h2>
+<div class="c"><strong>Colação de Grau: 12 de junho de 2019 às 18h.</strong></div>
 
-
-<p> Requerente – Allany Marques Trindade </p>
+<h3 style="color:#38425B;"><strong>Local: Pólo de Macaúbas.</strong></h3>
 
 <p> Juramentista – Nilmárcia Souza Oliveira Lima</p>
-<p> Oradoras –   Ana Lourdes Moreno Rodrigues Silva | Daiana Móia Meira </p> 
 
 
 
@@ -111,7 +110,7 @@ div.c {
 <div class="column">
     <div class="card2">
       <center> 
-      <p><strong>Formanda:</strong></p> 
+      <p><strong>Formanda</strong></p> 
       <div class="c">Alessandra Vaz Figueiredo</div>
       <p><strong>Madrinha:</strong></p>
       <p> xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
@@ -121,7 +120,7 @@ div.c {
 
   <div class="column">
     <div class="card2">
-     <p><strong>Formanda:</strong></p> 
+     <p><strong>Formanda</strong></p> 
         <div class="c">Allany Marques Trindade</div>
         <p><strong>Madrinha:</strong></p>
         <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
@@ -129,12 +128,12 @@ div.c {
   </div>
 
 <br>
-<br> <p style="color:white;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+<br> <p style="color:white;"> hhhhhhhhhhhh</p>
 
 <div class="column">
     <div class="card2">
       <center> 
-      <p><strong>Formanda:</strong></p> 
+      <p><strong>Formanda</strong></p> 
       <div class="c">Ana Lourdes Moreno Rodrigues Silva</div>
       <p><strong>Madrinha:</strong></p>
       <p> xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
@@ -144,20 +143,20 @@ div.c {
 
   <div class="column">
     <div class="card2">
-     <p><strong>Formanda:</strong></p> 
+     <p><strong>Formanda</strong></p> 
         <div class="c">Aparecida Gardenia Morais de Oliveira</div>
         <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+        <p>xxxxxxxxxxxxxxxxxxxxx</p>
     </div>
   </div>
 
 <br>
-<br> <p style="color:white;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+<br> <p style="color:white;"> hhhhhhhhhhhh</p>
 
 <div class="column">
     <div class="card2">
       <center> 
-      <p><strong>Formanda:</strong></p> 
+      <p><strong>Formanda</strong></p> 
       <div class="c">Daiana Moia Meira</div>
       <p><strong>Madrinha:</strong></p>
       <p> xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
@@ -167,7 +166,7 @@ div.c {
 
   <div class="column">
     <div class="card2">
-     <p><strong>Formanda:</strong></p> 
+     <p><strong>Formanda</strong></p> 
         <div class="c">Edvania Santos Souza</div>
         <p><strong>Madrinha:</strong></p>
         <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
@@ -175,12 +174,12 @@ div.c {
   </div>
 
 <br>
-<br> <p style="color:white;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+<br> <p style="color:white;"> hhhhhhhhhhhhhhhh</p>
 
 <div class="column">
     <div class="card2">
       <center> 
-      <p><strong>Formando:</strong></p> 
+      <p><strong>Formando</strong></p> 
       <div class="c">Josue Jose de Souza</div>
       <p><strong>Madrinha:</strong></p>
       <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
@@ -190,7 +189,7 @@ div.c {
 
   <div class="column">
     <div class="card2">
-     <p><strong>Formando:</strong></p> 
+     <p><strong>Formando</strong></p> 
         <div class="c">Magno Donato Santos Costa</div>
         <p><strong>Madrinha:</strong></p>
         <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
@@ -198,12 +197,12 @@ div.c {
   </div>
 
 <br>
-<br> <p style="color:white;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+<br> <p style="color:white;"> hhhhhhhhhhhhhhh</p>
 
 <div class="column">
     <div class="card2">
       <center> 
-      <p><strong>Formanda:</strong></p> 
+      <p><strong>Formanda</strong></p> 
       <div class="c">Nilmarcia Souza Oliveira Lima</div>
       <p><strong>Madrinha:</strong></p>
       <p> xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
@@ -213,7 +212,7 @@ div.c {
 
   <div class="column">
     <div class="card2">
-     <p><strong>Formanda:</strong></p> 
+     <p><strong>Formanda</strong></p> 
         <div class="c">Suelaine Aparecida </div>
         <div class="c">Marques</div>
         <p><strong>Madrinha:</strong></p>
@@ -222,11 +221,11 @@ div.c {
   </div>
 
 <br>
-<br> <p style="color:white;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+<br> <p style="color:white;"> hhhhhhhhhhhhhhh</p>
 
 
 <div class="card2">
-     <p><strong>Formando:</strong></p> 
+     <p><strong>Formando</strong></p> 
         <div class="c">Tiago Martins de Oliveira</div>
         <p><strong>Madrinha:</strong></p>
         <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
@@ -235,21 +234,7 @@ div.c {
 
 
 
-
-
-
-
-
-
-
-
-
 </center> 
-
-
-<p style="text-align: justify;">
-
-</p>
 
 
 </div>

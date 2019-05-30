@@ -55,10 +55,7 @@ body {
 <p style="text-align: justify;">
 </p>
 
-<div class="alert">
-  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-  <strong>Alerta</strong> Ainda estamos editando essa página.
-</div>
+
 
 
 <p style="text-align: justify;">

@@ -49,16 +49,13 @@ body {
 <center> 
 
 
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="12"><strong>Mensagem</strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="12"><strong>Mensagem Inicial</strong></font></h1>
 
 <p style="text-align: justify;">
 
 </p>
 
-<div class="alert">
-  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-  <strong>Alerta</strong> Ainda estamos editando essa página.
-</div>
+
 
 <p style="text-align: justify;">
 No início deste curso, tudo era novo: o fato de sermos universitários, os colegas vindos de diferentes escolas, lugares e cidades, de diversas idades e personalidades. Nossa! Como era gostosa a sensação de descobrir esse novo mundo! Sentíamo-nos amedrontados em pensar se tínhamos ou não feito a escolha do caminho certo.</p>
