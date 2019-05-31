@@ -59,55 +59,34 @@ body {
 
 
 <p style="text-align: justify;">
+Fácil com certeza não foi!!! Quando iniciamos esta jornada e nos conhecemos, objetivos comuns
+nos uniram. Juntos aprendemos, rimos, discutimos, brincamos… mas sempre estávamos em busca
+de um sonho em comum, que agora acaba de se realizar. Foram anos que passamos juntos…
+Sabemos que nossa amizade não ficará só dentro da universidade. Nossa amizade não acabará.
+
 </p>
 
 <p style="text-align: justify;">
-Andei…</p>
+A todos vocês, amigos formandos, a nossa gratidão pela confiança e apoio que nos dedicaram. Fica
+aqui a certeza de que tudo foi feito buscando o melhor para todos, para fazermos desta festa algo
+inesquecível, um dos melhores dias de nossas vidas. O que vivemos e aprendemos vai permanecer
+conosco para sempre! Obrigado a todos vocês e até breve!
+</p>
 
 <p style="text-align: justify;">
-Por caminhos difíceis, eu sei.</p>
+Finalmente este dia chegou! Parece que foi ontem o dia em que entramos na sala
+do primeiro período e nos olhamos, cheios de expectativa. Era uma nova realidade, com
+novos desafios e novos companheiros de jornada. Houve momentos em que foi difícil
+continuar a acreditar neste sonho, mas sonhamos juntos… E aqui estamos nós! Nós, da
+comissão de formatura, aceitamos, com muita garra e vontade, o desafio de planejar e concretizar
+cada momento da realização deste sonho. Durante todo o processo, acreditem, procuramos
+agradar a todos, ou pelo menos à maioria. Gostaríamos de agradecer, em especial, a cada membro
+da comissão, pois sabemos que, nos momentos mais difíceis, nós estivemos unidos, revelando um
+sentimento de superação para que fosse possível a concretização desse sonho! Houve momentos
+em que não estivemos disponíveis para escutar e atender vocês, mas saibam que fizemos todo o
+possível para fazer deste dia algo inesquecível. Agora nos resta agradecer pela colaboração de todos e aproveitar essa conquista, juntos! Passaram-se os momentos da faculdade, mas, para sempre, ficarão as amizades, as lembranças e a saudade que sentiremos dessa época de nossas vidas. Desejamos sucesso para todos nós e esperamos nos encontrar novamente!!!
+</p>
 
-<p style="text-align: justify;">
-Mas olhando o chão sob meus pés, vejo a vida correr.</p>
-
-<p style="text-align: justify;">
-E assim, a cada passo que der,</p>
-
-<p style="text-align: justify;">
-Tentarei fazer o melhor que puder.</p>
-
-<p style="text-align: justify;">
-Aprendi…</p>
-
-<p style="text-align: justify;">
-Não tanto quanto quis, mas vi que, conhecendo</p>
-
-<p style="text-align: justify;">
-O universo ao meu redor, aprendo a me conhecer melhor;</p>
-
-<p style="text-align: justify;">
-E assim escutarei o tempo que me ensinará</p>
-
-<p style="text-align: justify;">
-A tomar a certa decisão a cada momento.</p>
-
-<p style="text-align: justify;">
-E partirei…</p>
-
-<p style="text-align: justify;">
-Em busca de muitos ideais,</p>
-
-<p style="text-align: justify;">
-Mas sei que hoje se encontram no meu passado, presente e futuro.</p>
-
-<p style="text-align: justify;">
-Hoje sinto em mim a emoção da despedida.</p>
-
-<p style="text-align: justify;">
-Hoje é o ponto de chegada.</p>
-
-<p style="text-align: justify;">
-Mas ao mesmo tempo, tempo de partida.</p>
 
 
 

@@ -52,8 +52,50 @@ Muito Obrigada meu Deus, pelas amizades conquistadas, pela segunda família que 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Aos Ausentes</strong></font></h1>
 
 <p style="text-align: justify;">
-Texto da mensagem 
+A saudade é traiçoeira, ela chega nos derruba e deixa nossa coração quebrantado, mas no entanto ela é pura, pois só sentimos saudade de reclamante amamos.
+A bíblia diz em 1 Cor 13:8 que o Amor Nunca Acaba. 
 </p>
+
+
+<p style="text-align: justify;">
+E isso é a única coisa que a morte não nos tira o Amor, pois ele permanece intacto mesmo com o passar do tempo. 
+</p>
+
+<p style="text-align: justify;">
+Perseverar não foi fácil, perder alguém tão querido foi um choque de realidade, imersos em nosso livros, não percebemos o quão vulneráveis somos.
+</p>
+
+
+<p style="text-align: justify;">
+Mas hoje estamos celebrando uma conquista nossa.
+</p>
+
+
+<p style="text-align: justify;">
+Mas quem disse que não haverá um reencontro? 
+</p>
+
+
+<p style="text-align: justify;">
+Jesus, a quem Deus vai usar para ressuscitar os mortos, é corretamente chamado de a Ressurreição é a Vida.
+</p>
+
+<p style="text-align: justify;">
+Pois o mesmo foi levantado dentre os mortos e nos prometeu que fará em breve o mesmo.  E termino com a citação de Atos 24:14 que diz: " E eu tenho esperança em Deus, esperança que esses homens também têm, de que haverá uma ressurreição tanto de justos como de injustos."
+</p>
+
+<p style="text-align: justify;">
+Esperança de encontra meu amigo e assim celebrar a maior conquista de todas a sua ressurreição.
+</p>
+
+
+
+
+
+
+
+
+
 
 
 

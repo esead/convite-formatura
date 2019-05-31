@@ -112,8 +112,8 @@ div.c {
       <center> 
       <p><strong>Formanda</strong></p> 
       <div class="c">Alessandra Vaz Figueiredo</div>
-      <p><strong>Madrinha:</strong></p>
-      <p> xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+      <p><strong>Pais</strong></p>
+      <p> Ovelice Oliveira Vaz Figueiredo e Miguel Costa Figueiredo</p>
       </center>
     </div>
   </div>
@@ -122,8 +122,8 @@ div.c {
     <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Allany Marques Trindade</div>
-        <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p>Antonio Neves dos Santos Trindade e Marilene Rosa Marques</p>
     </div>
   </div>
 
@@ -135,8 +135,8 @@ div.c {
       <center> 
       <p><strong>Formanda</strong></p> 
       <div class="c">Ana Lourdes Moreno Rodrigues Silva</div>
-      <p><strong>Madrinha:</strong></p>
-      <p> xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+      <p><strong>Pais</strong></p>
+      <p> Adetina Moreno Rodrigues e Arlindo Santos Rodrigues</p>
       </center>
     </div>
   </div>
@@ -145,8 +145,8 @@ div.c {
     <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Aparecida Gardenia Morais de Oliveira</div>
-        <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxxxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p>João José de Oliveira e Guiomar Oliveira Morais</p>
     </div>
   </div>
 
@@ -157,9 +157,9 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formanda</strong></p> 
-      <div class="c">Daiana Moia Meira</div>
-      <p><strong>Madrinha:</strong></p>
-      <p> xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+      <div class="c">Daiana Móia Meira</div>
+      <p><strong>Pais</strong></p>
+      <p> Maria Francisca Móia Meira e Raimundo da Assunção Meira</p>
       </center>
     </div>
   </div>
@@ -168,8 +168,8 @@ div.c {
     <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Edvania Santos Souza</div>
-        <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p>Sinvaldo Rodrigues de Souza e Laudelina Santos Souza</p>
     </div>
   </div>
 
@@ -180,9 +180,9 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formando</strong></p> 
-      <div class="c">Josue Jose de Souza</div>
-      <p><strong>Madrinha:</strong></p>
-      <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+      <div class="c">Josué José de Souza</div>
+      <p><strong>Pais</strong></p>
+      <p>Liberato José de Souza e Maria Pacífica de Souza</p>
       </center>
     </div>
   </div>
@@ -191,8 +191,8 @@ div.c {
     <div class="card2">
      <p><strong>Formando</strong></p> 
         <div class="c">Magno Donato Santos Costa</div>
-        <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p>Temício Zeferino da Costa e Lucilene Rego dos santos Costa</p>
     </div>
   </div>
 
@@ -204,36 +204,52 @@ div.c {
       <center> 
       <p><strong>Formanda</strong></p> 
       <div class="c">Nilmarcia Souza Oliveira Lima</div>
-      <p><strong>Madrinha:</strong></p>
-      <p> xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+      <p><strong>Pais</strong></p>
+      <p>Nilton Galvão Oliveira e Leonor Souza Oliveira</p>
       </center>
     </div>
   </div>
 
-  <div class="column">
-    <div class="card2">
+<div class="column">
+  <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Suelaine Aparecida </div>
         <div class="c">Marques</div>
-        <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p>Augusto Silva Marques e Celina Rosa Marques</p>
     </div>
   </div>
 
 <br>
 <br> <p style="color:white;"> hhhhhhhhhhhhhhh</p>
 
+<div class="column">
+<div class="card2">
+     <p><strong>Formando</strong></p> 
+        <div class="c">Nélia Fabrícia Gonçalves Silva</div>
+        <p><strong>Pais</strong></p>
+        <p>Gilmar Silva e Raimunda Pimenta Gonçalves Silva</p>
+    </div>
+  </div>
 
+<div class="column">
 <div class="card2">
      <p><strong>Formando</strong></p> 
         <div class="c">Tiago Martins de Oliveira</div>
-        <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p>Osirio Martins de Oliveira e Neusa Rosa de Oliveira</p>
     </div>
+  </div>
 
 
-
-
+<br>
+<br> <p style="color:white;"> hhhhhhhhhhhhhhh</p>
+<div class="card2">
+     <p><strong>Formando</strong></p> 
+        <div class="c">Wilson Vaz de Oliveira</div>
+        <p><strong>Pais</strong></p>
+        <p>José Antônio de Oliveira e Zilda Rosa Vaz de Oliveira</p>
+    </div>
 </center> 
 
 

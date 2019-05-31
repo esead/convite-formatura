@@ -111,8 +111,8 @@ div.c {
       <center> 
       <p><strong>Formando</strong></p> 
       <div class="c">Alex Araújo Dultra</div>
-      <p><strong>Madrinha:</strong></p>
-      <p> xxxxxxxxxxxxxxxxxxxx</p>
+      <p><strong>Pais</strong></p>
+      <p> Marilene Araujo Dultra e Faranisio Dultra</p>
       </center>
     </div>
   </div>
@@ -121,8 +121,8 @@ div.c {
     <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Aline Brito Vieira </div>
-        <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p>Ana Cristina da Costa Brito e Joel Araújo Vieira</p>
     </div>
   </div>
 
@@ -134,8 +134,8 @@ div.c {
       <center> 
       <p><strong>Formanda</strong></p> 
       <div class="c">Elisangela de Souza Alves dos Santos</div>
-      <p><strong>Madrinha:</strong></p>
-      <p> xxxxxxxxxxxxxxxxxxxx</p>
+      <p><strong>Pais</strong></p>
+      <p> Maria Alaíde Pereira de Souza e Marcelo Bispo Alves</p>
       </center>
     </div>
   </div>
@@ -145,8 +145,8 @@ div.c {
      <p><strong>Formando</strong></p> 
         <div class="c">Evanildo Gonçalves </div>
         <div class="c">Ribeiro</div>
-        <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p>Darlan Oliveira Ribeiro e Zildete Santos Gonçalves</p>
     </div>
   </div>
 
@@ -159,8 +159,8 @@ div.c {
       <center> 
       <p><strong>Formanda</strong></p> 
       <div class="c">Kisy Lima Santos Pacheco</div>
-      <p><strong>Madrinha:</strong></p>
-      <p> xxxxxxxxxxxxxxxxx</p>
+      <p><strong>Pais</strong></p>
+      <p> Arivaldo Francisco Santos <em>in memorian</em> e Alecia Alves Lima</p>
       </center>
     </div>
   </div>
@@ -169,8 +169,8 @@ div.c {
     <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Liege Brito Magalhães </div>
-        <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p>Joselina Almeida Brito e Adnil de Cintra Brito ambos <em>in memorian</em></p>
     </div>
   </div>
 
@@ -182,8 +182,8 @@ div.c {
       <center> 
       <p><strong>Formanda</strong></p> 
       <div class="c">Raiane Almeida Brito do Carmo</div>
-      <p><strong>Madrinha:</strong></p>
-      <p> xxxxxxxxxxxxxxx</p>
+      <p><strong>Madrinha</strong></p>
+      <p>  Raimundo Barbosa do Carmo <em>in memorian</em> e Eliane Almeida Brito do Carmo</p>
       </center>
     </div>
   </div>
@@ -193,8 +193,8 @@ div.c {
      <p><strong>Formando</strong></p> 
         <div class="c">Silvio Alves</div>
         <div class="c">Macedo</div>
-        <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p>Noely Oliveira Alves e Francisco matos Macedo</p>
     </div>
   </div>
 
@@ -205,8 +205,8 @@ div.c {
 <div class="card2">
      <p><strong>Formando</strong></p> 
         <div class="c">Wilson dos Santos Rosa</div>
-        <p><strong>Madrinha:</strong></p>
-        <p>xxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p>Silvandira Martins dos Santos e João Bispo Rosa</p>
     </div>
 
 
