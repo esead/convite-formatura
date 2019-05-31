@@ -59,18 +59,56 @@ body {
 
 
 <p style="text-align: justify;">
-Hoje é um dia especial na vida de todos nós, e compartilhar esse dia com aqueles que nos deram a vida e sempre lutaram para que nossas conquistas acontecessem é maravilhoso.</p>
+</p>
 
 <p style="text-align: justify;">
-Pais, vocês nos acompanharam desde os primeiros passos no caminho da educação. Nos ensinaram valores, responsabilidades, respeito, amor e muito mais, o que nos transformou no que somos hoje.</p>
+Andei…</p>
 
 <p style="text-align: justify;">
-Agradecer é muito pouco, pois vocês são inspiração e força para nossas vitórias, são a luz de nosso caminho a energia que nos move.
-Nessa longa caminhada que hoje findamos com vitória vocês sempre estiveram presentes nos dando todo o suporte e apoio necessário.
-Obrigada por nos darem a vida e nos ensinarem a lutar por ela. Sem vocês nossa vitória não seria possível. </p>
+Por caminhos difíceis, eu sei.</p>
 
 <p style="text-align: justify;">
-Obrigada pelo amor incondicional e pela fé em nossa capacidade.</p>
+Mas olhando o chão sob meus pés, vejo a vida correr.</p>
+
+<p style="text-align: justify;">
+E assim, a cada passo que der,</p>
+
+<p style="text-align: justify;">
+Tentarei fazer o melhor que puder.</p>
+
+<p style="text-align: justify;">
+Aprendi…</p>
+
+<p style="text-align: justify;">
+Não tanto quanto quis, mas vi que, conhecendo</p>
+
+<p style="text-align: justify;">
+O universo ao meu redor, aprendo a me conhecer melhor;</p>
+
+<p style="text-align: justify;">
+E assim escutarei o tempo que me ensinará</p>
+
+<p style="text-align: justify;">
+A tomar a certa decisão a cada momento.</p>
+
+<p style="text-align: justify;">
+E partirei…</p>
+
+<p style="text-align: justify;">
+Em busca de muitos ideais,</p>
+
+<p style="text-align: justify;">
+Mas sei que hoje se encontram no meu passado, presente e futuro.</p>
+
+<p style="text-align: justify;">
+Hoje sinto em mim a emoção da despedida.</p>
+
+<p style="text-align: justify;">
+Hoje é o ponto de chegada.</p>
+
+<p style="text-align: justify;">
+Mas ao mesmo tempo, tempo de partida.</p>
+
 
 
 </div>
