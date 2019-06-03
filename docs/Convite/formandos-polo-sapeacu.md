@@ -94,8 +94,8 @@ div.c {
       <p><strong>Formanda</strong></p> 
       <div class="c">Anaci Morais dos </div>
       <div class="c">Santos</div>
-      <p><strong>Madrinha</strong></p>
-      <p> xxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+      <p><strong>Pais</strong></p>
+      <p> Adelino Gonçalves dos Santos e  Doralice Morais dos Santos</p>
       </center>
     </div>
   </div>
@@ -104,8 +104,8 @@ div.c {
     <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Cristiane Souza dos Santos </div>
-        <p><strong>Madrinha</strong></p>
-        <p>xxxxxxxxxxxxxxxxxxxxxxxxx</p>
+        <p><strong>Pais</strong></p>
+        <p> Ananias dos Santos e Maria Marlene de Souza Santos</p>
     </div>
   </div>
 
