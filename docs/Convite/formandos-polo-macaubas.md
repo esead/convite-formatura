@@ -211,7 +211,7 @@ div.c {
 
 <div class="column">
 <div class="card2">
-     <p><strong>Formando</strong></p> 
+     <p><strong>Formanda</strong></p> 
         <div class="c">Nélia Fabrícia Gonçalves Silva</div>
         <p><strong>Gilmar Silva e Raimunda Pimenta Gonçalves Silva</strong></p>
     </div>

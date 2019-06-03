@@ -86,7 +86,7 @@ div.c {
 
 <div class="c"><strong>Colação de Grau: 11 de junho de 2019 às 18h.</strong></div>
 
-<h3 style="color:#38425B;"><strong>Local: Rua Sifredo Pedral Sampaio, s/n, (conhecida Rua 10 de Novembro);. Escola Maria Viana, Bairro Recreio, ao lado do SENAC - Vitória da Conquista/BA.</strong></h3>
+<h3 style="color:#38425B;"><strong>Local: Rua Sifredo Pedral Sampaio, s/n, (conhecida Rua 10 de Novembro). Escola Maria Viana, Bairro Recreio, ao lado do SENAC - Vitória da Conquista/BA.</strong></h3>
 
 
 <div class="column">
