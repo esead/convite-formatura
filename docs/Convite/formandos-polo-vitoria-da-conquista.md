@@ -5,7 +5,7 @@
 <style>
 
 body { 
-  background-image: url("../imagens/fundo6.png");
+  background-image: url("../imagens/fundo7.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
@@ -84,9 +84,9 @@ div.c {
 <br> 
 <center> 
 
-<div class="c"><strong>Colação de Grau: 11 de junho de 2019 às 14h.</strong></div>
+<div class="c"><strong>Colação de Grau: 11 de junho de 2019 às 18h.</strong></div>
 
-<h3 style="color:#38425B;"><strong>Local: Cruz das Almas, CETEC.</strong></h3>
+<h3 style="color:#38425B;"><strong>Local: Rua Sifredo Pedral Sampaio, s/n, (conhecida Rua 10 de Novembro);. Escola Maria Viana, Bairro Recreio, ao lado do SENAC - Vitória da Conquista/BA.</strong></h3>
 
 
 <div class="column">
@@ -95,8 +95,7 @@ div.c {
       <p><strong>Formanda</strong></p> 
       <div class="c">Diana Carla </div>
       <div class="c">Barreto</div>
-      <p><strong>Madrinha</strong></p>
-      <p> xxxxxxxxxxxxxxxx</p>
+      <p><strong>Erivaldo de Sousa Barreto <em>in memorian</em> </strong></p>
       </center>
     </div>
   </div>
@@ -105,8 +104,7 @@ div.c {
     <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Juliana Araújo Barbosa Novato </div>
-        <p><strong>Madrinha</strong></p>
-        <p>xxxxxxxxxxxxxxxxx</p>
+        <p><strong>Jorge Basílio Barbosa e Eleny Araújo Barbosa </strong></p>
     </div>
   </div>
 
@@ -116,10 +114,9 @@ div.c {
 <div class="column">
     <div class="card2">
       <center> 
-      <p><strong>Formando:</strong></p> 
+      <p><strong>Formando</strong></p> 
       <div class="c">Ricardo do Amor Divino Santos</div>
-      <p><strong>Madrinha</strong></p>
-      <p> xxxxxxxxxxxxxxxx</p>
+      <p><strong>Ademario Rodrigues dos Santos e Lucidalva do Amor Divino Santos</strong></p>
       </center>
     </div>
   </div>
@@ -129,8 +126,7 @@ div.c {
      <p><strong>Formanda</strong></p> 
         <div class="c">Tatiana Vieira </div>
         <div class="c">Silva</div>
-        <p><strong>Madrinha</strong></p>
-        <p>xxxxxxxxxxxxxxxxx</p>
+        <p><strong>José Vital Silva e Marli Vieira Silva </strong></p>
     </div>
   </div>
   <br>

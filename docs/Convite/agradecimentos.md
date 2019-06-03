@@ -127,11 +127,9 @@ Obrigada pelo amor incondicional e pela fé em nossa capacidade.
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Aos Mestres</strong></font></h1>
 
+
 <p style="text-align: justify;">
-
-</p>
-
-
+Ensinar é acreditar que se pode contribuir para a formação de um caráter, é compartilhar de sua própria experiência e guiar além das teorias e das filosofias. Agradecemos aqueles que compartilharam conosco seus conhecimentos, auxiliando-nos na busca da realização plena de novas ideias profissionais e humanas, dedicando seu conhecimento para a nossa formação fosse também um aprendizado de vida. A vocês, mestres, que nos deram consciência do valor da nossa profissão, alertando-nos sobre as responsabilidades que temos que assumir em nossa caminhada, o nosso muito obrigado!</p>
 
 </div>
 

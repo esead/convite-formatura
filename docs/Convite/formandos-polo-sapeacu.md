@@ -83,7 +83,7 @@ div.c {
 
 
 <center> 
-<div class="c"><strong>Colação de Grau: 11 de junho de 2019 às 14h.</strong></div>
+<div class="c"><strong>Colação de Grau: 10 de junho de 2019 às 14h.</strong></div>
 
 <h3 style="color:#38425B;"><strong>Local: Cruz das Almas, CETEC.</strong></h3>
 
@@ -94,8 +94,7 @@ div.c {
       <p><strong>Formanda</strong></p> 
       <div class="c">Anaci Morais dos </div>
       <div class="c">Santos</div>
-      <p><strong>Pais</strong></p>
-      <p> Adelino Gonçalves dos Santos e  Doralice Morais dos Santos</p>
+      <p><strong>Adelino Gonçalves dos Santos e  Doralice Morais dos Santos</strong></p>
       </center>
     </div>
   </div>
@@ -104,8 +103,7 @@ div.c {
     <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Cristiane Souza dos Santos </div>
-        <p><strong>Pais</strong></p>
-        <p> Ananias dos Santos e Maria Marlene de Souza Santos</p>
+        <p><strong>Ananias dos Santos e Maria Marlene de Souza Santos</strong></p>
     </div>
   </div>
 

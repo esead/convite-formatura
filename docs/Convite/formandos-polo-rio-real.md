@@ -109,18 +109,18 @@ div.c {
       <center> 
       <p><strong>Formanda</strong></p> 
       <div class="c">Juscicleide Rodrigues Valença</div>
-      <p><strong>Madrinha</strong></p>
-      <p> Clarice Do Nascimento Rodrigues (Mãe da Formanda)</p>
+      <p><strong>Clarice do Nascimento Rodrigues e Juscelino Soares Valença</strong></p>
       </center>
     </div>
   </div>
 
   <div class="column">
     <div class="card2">
+      <center> 
      <p><strong>Formando</strong></p> 
         <div class="c">Marcos de Novaes de Jesus </div>
-        <p><strong>Madrinha</strong></p>
-        <p>Maria de Novaes de Jesus  (Mãe do Formando)</p>
+        <p><strong>Maria de Novaes de Jesus e Antonio  de Jesus</strong></p>
+      </center>
     </div>
   </div>
 
@@ -132,8 +132,7 @@ div.c {
       <center> 
       <p><strong>Formanda</strong></p> 
       <div class="c">Miscilene Barbosa Dos Santos</div>
-      <p><strong>Pais</strong></p>
-      <p> Josefina Barbosa dos Santos e Raimundo Barbosa dos Santos <em>in memorian</em></p>
+      <p><strong>Josefina Barbosa dos Santos e Raimundo Barbosa dos Santos <em>in memorian</em></strong></p>
       </center>
     </div>
   </div>
@@ -142,8 +141,7 @@ div.c {
     <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Thaís Celestina Bispo </div>
-        <p><strong>Padrinhos</strong></p>
-        <p>Nivaldo Rodrigues Bispo e Juleide Celestino de Santana</p>
+        <p><strong>Nivaldo Rodrigues Bispo e Juleide Celestino de Santana</strong></p>
     </div>
   </div>
 
@@ -154,8 +152,7 @@ div.c {
       <center> 
       <p><strong>Formando</strong></p> 
       <div class="c">João Mário Alves Do Nascimento </div>
-      <p><strong>Madrinhas</strong></p>
-      <p>Beatriz de Assis Nascimento e Luciene de Assis do Nascimento</p>
+      <p><strong> Mário Nascimento da Paz e Maria dos Santos Nascimento</strong></p>
       </center>
     </div>
   </div>
@@ -165,8 +162,7 @@ div.c {
      <p><strong>Formando</strong></p> 
         <div class="c">Givanildo de Jesus </div>
         <div class="c">Alves</div>
-        <p><strong>Madrinha</strong></p>
-        <p>Jacqueline Silva Santos</p>
+        <p><strong>Marizete Mendes de Jesus Alves e Joselito Belarmino Alves</strong></p>
         <br>
     </div>
   </div>
@@ -181,8 +177,7 @@ div.c {
       <p><strong>Formando</strong></p> 
       <div class="c">Antônio Jairo dos </div>
       <div class="c"> Reis </div>
-      <p><strong>Madrinha</strong></p>
-      <p> Wgneide Fonseca de Goes Reis</p>
+      <p><strong>Leonor Marta dos Reis e  Antonio Valentim dos Reis</strong></p>
       </center>
     </div>
   </div>
@@ -191,8 +186,7 @@ div.c {
     <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Ana Paula de Souza dos Santos</div>
-        <p><strong>Padrinho</strong></p>
-        <p>José Braz da Silva Junior</p>
+        <p><strong>Ana Maria Mendes de Souza e Arisvaldo Vieira dos Santos</strong></p>
     </div>
   </div>
 
@@ -203,8 +197,7 @@ div.c {
       <center> 
       <p><strong>Formanda</strong></p> 
       <div class="c">Edna Da Silva Oliveira </div>
-      <p><strong>Padrinho</strong></p>
-      <p> Leonardo Oliveira Do Nascimento</p>
+      <p><strong>Josefina da Silva Oliveira e João Ulisses de Oliveira</strong></p>
       </center>
     </div>
   </div>
@@ -213,8 +206,7 @@ div.c {
     <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Mariza Bomfim Dos Santos</div>
-        <p><strong>Padrinho</strong></p>
-        <p>Dr. Arthur Calazans Dos Santos</p>
+        <p><strong>Angelina Bomfim da Hora e Edson Brás da Hora</strong></p>
     </div>
   </div>
  
@@ -222,8 +214,7 @@ div.c {
   <div class="card2">
      <p><strong>Formanda</strong></p> 
         <div class="c">Amanda Canuta De Souza</div>
-        <p><strong>Padrinho</strong></p>
-        <p>Valdemir Amano Dos Santos</p>
+        <p><strong>Valdina Canuta de Souza e Paulo Henrique de Souza</strong></p>
     </div>
 
 

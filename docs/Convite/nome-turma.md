@@ -31,7 +31,7 @@ body {
 
 
 <h1> <strong>Paraninfo</strong></h1>
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Maria Eunice Souza Mariz </strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Maria Eunice Souza Madriz </strong></font></h1>
 
 
 <h1><strong>Patrono</strong></h1>

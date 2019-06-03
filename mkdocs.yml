@@ -20,6 +20,7 @@ pages:
         - 'Formandos Pólo Rio Real': Convite/formandos-polo-rio-real.md
         - 'Formandos Pólo Vitória da Conquista': Convite/formandos-polo-vitoria-da-conquista.md
         - 'Mensagem Comissão': Convite/mensagem-comissao.md
+        - 'Mensagem Final': Convite/mensagem-final.md
 theme:
   name: 'material'
   language: 'pt'
