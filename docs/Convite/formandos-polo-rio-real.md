@@ -75,7 +75,7 @@ body {
 }
 
 div.c {
-  font-size: 24px;
+  font-size: 28px;
   font-family:'Dancing Script', cursive;
   color:#BD9E68;
 }
