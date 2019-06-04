@@ -105,7 +105,7 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formanda</strong></p> 
-      <div class="c">Alessandra Vaz Figueiredo</div>
+      <div class="c"><strong>Alessandra Vaz Figueiredo</strong></div>
       <p><strong>Ovelice Oliveira Vaz Figueiredo e Miguel Costa Figueiredo</strong></p>
       </center>
     </div>
@@ -114,7 +114,7 @@ div.c {
   <div class="column">
     <div class="card2">
      <p><strong>Formanda</strong></p> 
-        <div class="c">Allany Marques Trindade</div>
+        <div class="c"><strong>Allany Marques Trindade</strong></div>
         <p><strong>Antonio Neves dos Santos Trindade e Marilene Rosa Marques</strong></p>
     </div>
   </div>
@@ -126,7 +126,7 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formanda</strong></p> 
-      <div class="c">Ana Lourdes Moreno Rodrigues Silva</div>
+      <div class="c"><strong>Ana Lourdes Moreno Rodrigues Silva</strong></div>
       <p><strong>Adetina Moreno Rodrigues e Arlindo Santos Rodrigues</strong></p>
       </center>
     </div>
@@ -135,7 +135,7 @@ div.c {
   <div class="column">
     <div class="card2">
      <p><strong>Formanda</strong></p> 
-        <div class="c">Aparecida Gardenia Morais de Oliveira</div>
+        <div class="c"><strong>Aparecida Gardenia Morais de Oliveira</strong></div>
         <p><strong>João José de Oliveira e Guiomar Oliveira Morais</strong></p>
     </div>
   </div>
@@ -147,7 +147,7 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formanda</strong></p> 
-      <div class="c">Daiana Móia Meira</div>
+      <div class="c"><strong>Daiana Móia Meira</strong></div>
       <p><strong>Maria Francisca Móia Meira e Raimundo da Assunção Meira</strong></p>
       </center>
     </div>
@@ -156,7 +156,7 @@ div.c {
   <div class="column">
     <div class="card2">
      <p><strong>Formanda</strong></p> 
-        <div class="c">Edvania Santos Souza</div>
+        <div class="c"><strong>Edvania Santos Souza</strong></div>
         <p><strong>Sinvaldo Rodrigues de Souza e Laudelina Santos Souza</strong></p>
     </div>
   </div>
@@ -168,7 +168,7 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formando</strong></p> 
-      <div class="c">Josué José de Souza</div>
+      <div class="c"><strong>Josué José de Souza</strong></div>
       <p><strong>Liberato José de Souza e Maria Pacífica de Souza</strong></p>
       </center>
     </div>
@@ -177,7 +177,7 @@ div.c {
   <div class="column">
     <div class="card2">
      <p><strong>Formando</strong></p> 
-        <div class="c">Magno Donato Santos Costa</div>
+        <div class="c"><strong>Magno Donato Santos Costa</strong></div>
         <p><strong>Temício Zeferino da Costa e Lucilene Rego dos santos Costa</strong></p>
     </div>
   </div>
@@ -189,7 +189,7 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formanda</strong></p> 
-      <div class="c">Nilmarcia Souza Oliveira Lima</div>
+      <div class="c"><strong>Nilmarcia Souza Oliveira Lima</strong></div>
       <p><strong>Nilton Galvão Oliveira e Leonor Souza Oliveira</strong></p>
       </center>
     </div>
@@ -198,8 +198,8 @@ div.c {
 <div class="column">
   <div class="card2">
      <p><strong>Formanda</strong></p> 
-        <div class="c">Suelaine Aparecida </div>
-        <div class="c">Marques</div>
+        <div class="c"><strong>Suelaine Aparecida</strong></div>
+        <div class="c"><strong>Marques</strong></div>
         <p><strong>Augusto Silva Marques e Celina Rosa Marques</strong></p>
     </div>
   </div>
@@ -210,7 +210,7 @@ div.c {
 <div class="column">
 <div class="card2">
      <p><strong>Formanda</strong></p> 
-        <div class="c">Nélia Fabrícia Gonçalves Silva</div>
+        <div class="c"><strong>Nélia Fabrícia Gonçalves Silva</strong></div>
         <p><strong>Gilmar Silva e Raimunda Pimenta Gonçalves Silva</strong></p>
     </div>
   </div>
@@ -218,7 +218,7 @@ div.c {
 <div class="column">
 <div class="card2">
      <p><strong>Formando</strong></p> 
-        <div class="c">Tiago Martins de Oliveira</div>
+        <div class="c"><strong>Tiago Martins de Oliveira</strong></div>
         <p><strong>Osirio Martins de Oliveira e Neusa Rosa de Oliveira</strong></p>
     </div>
   </div>
@@ -228,7 +228,7 @@ div.c {
 <br> <p style="color:white;"> hhhhhhhhhhhhhhh</p>
 <div class="card2">
      <p><strong>Formando</strong></p> 
-        <div class="c">Wilson Vaz de Oliveira</div>
+        <div class="c"><strong>Wilson Vaz de Oliveira</strong></div>
         <p><strong>José Antônio de Oliveira e Zilda Rosa Vaz de Oliveira</strong></p>
     </div>
 </center> 

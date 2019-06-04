@@ -90,8 +90,8 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formanda</strong></p> 
-      <div class="c">Anaci Morais dos </div>
-      <div class="c">Santos</div>
+      <div class="c"><strong>Anaci Morais dos</strong></div>
+      <div class="c"><strong>Santos</strong></div>
       <p><strong>Adelino Gonçalves dos Santos e  Doralice Morais dos Santos</strong></p>
       </center>
     </div>
@@ -100,7 +100,7 @@ div.c {
   <div class="column">
     <div class="card2">
      <p><strong>Formanda</strong></p> 
-        <div class="c">Cristiane Souza dos Santos </div>
+        <div class="c"><strong>Cristiane Souza dos Santos</strong></div>
         <p><strong>Ananias dos Santos e Maria Marlene de Souza Santos</strong></p>
     </div>
   </div>

@@ -108,7 +108,7 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formanda</strong></p> 
-      <div class="c">Juscicleide Rodrigues Valença</div>
+      <div class="c"><strong>Juscicleide Rodrigues Valença</strong></div>
       <p><strong>Clarice do Nascimento Rodrigues e Juscelino Soares Valença</strong></p>
       </center>
     </div>
@@ -118,7 +118,7 @@ div.c {
     <div class="card2">
       <center> 
      <p><strong>Formando</strong></p> 
-        <div class="c">Marcos de Novaes de Jesus </div>
+        <div class="c"><strong>Marcos de Novaes de Jesus</strong></div>
         <p><strong>Maria de Novaes de Jesus e Antonio  de Jesus</strong></p>
       </center>
     </div>
@@ -131,7 +131,7 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formanda</strong></p> 
-      <div class="c">Miscilene Barbosa Dos Santos</div>
+      <div class="c"><strong>Miscilene Barbosa Dos Santos</strong></div>
       <p><strong>Josefina Barbosa dos Santos e Raimundo Barbosa dos Santos <em>in memorian</em></strong></p>
       </center>
     </div>
@@ -140,7 +140,7 @@ div.c {
   <div class="column">
     <div class="card2">
      <p><strong>Formanda</strong></p> 
-        <div class="c">Thaís Celestina Bispo </div>
+        <div class="c"><strong>Thaís Celestina Bispo</strong></div>
         <p><strong>Nivaldo Rodrigues Bispo e Juleide Celestino de Santana</strong></p>
     </div>
   </div>
@@ -151,7 +151,7 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formando</strong></p> 
-      <div class="c">João Mário Alves Do Nascimento </div>
+      <div class="c"><strong>João Mário Alves Do Nascimento</strong></div>
       <p><strong> Mário Nascimento da Paz e Maria dos Santos Nascimento</strong></p>
       </center>
     </div>
@@ -160,8 +160,8 @@ div.c {
   <div class="column">
     <div class="card2">
      <p><strong>Formando</strong></p> 
-        <div class="c">Givanildo de Jesus </div>
-        <div class="c">Alves</div>
+        <div class="c"><strong>Givanildo de Jesus</strong></div>
+        <div class="c"><strong>Alves</strong></div>
         <p><strong>Marizete Mendes de Jesus Alves e Joselito Belarmino Alves</strong></p>
         <br>
     </div>
@@ -175,8 +175,8 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formando</strong></p> 
-      <div class="c">Antônio Jairo dos </div>
-      <div class="c"> Reis </div>
+      <div class="c"><strong>Antônio Jairo dos</strong></div>
+      <div class="c"> <strong>Reis</strong></div>
       <p><strong>Leonor Marta dos Reis e  Antonio Valentim dos Reis</strong></p>
       </center>
     </div>
@@ -185,7 +185,7 @@ div.c {
   <div class="column">
     <div class="card2">
      <p><strong>Formanda</strong></p> 
-        <div class="c">Ana Paula de Souza dos Santos</div>
+        <div class="c"><strong>Ana Paula de Souza dos Santos</strong></div>
         <p><strong>Ana Maria Mendes de Souza e Arisvaldo Vieira dos Santos</strong></p>
     </div>
   </div>
@@ -196,7 +196,7 @@ div.c {
     <div class="card2">
       <center> 
       <p><strong>Formanda</strong></p> 
-      <div class="c">Edna Da Silva Oliveira </div>
+      <div class="c"><strong>Edna Da Silva Oliveira</strong></div>
       <p><strong>Josefina da Silva Oliveira e João Ulisses de Oliveira</strong></p>
       </center>
     </div>
@@ -205,7 +205,7 @@ div.c {
   <div class="column">
     <div class="card2">
      <p><strong>Formanda</strong></p> 
-        <div class="c">Mariza Bomfim Dos Santos</div>
+        <div class="c"><strong>Mariza Bomfim Dos Santos</strong></div>
         <p><strong>Angelina Bomfim da Hora e Edson Brás da Hora</strong></p>
     </div>
   </div>
@@ -213,13 +213,10 @@ div.c {
 <br> <p style="color:white;"> hhhhhhhhhhhhhhhhh</p>
   <div class="card2">
      <p><strong>Formanda</strong></p> 
-        <div class="c">Amanda Canuta De Souza</div>
+        <div class="c"><strong>Amanda Canuta De Souza</strong></div>
         <p><strong>Valdina Canuta de Souza e Paulo Henrique de Souza</strong></p>
     </div>
-
-
 </center> 
-
 </div>
 
 
