@@ -78,7 +78,7 @@ div.c {
 <center> 
 
 
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Pólo Vitória da Conquista</strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Polo Vitória da Conquista</strong></font></h1>
 
 
 <br> 

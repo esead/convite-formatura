@@ -14,11 +14,11 @@ pages:
         - 'Nome da Turma': Convite/nome-turma.md
         - 'Mensagem Inicial': Convite/mensagem.md
         - 'Agradecimentos': Convite/agradecimentos.md
-        - 'Formandos Pólo Sapeaçu': Convite/formandos-polo-sapeacu.md
-        - 'Formandos Pólo Ipirá ': Convite/formandos-polo-ipira.md
-        - 'Formandos Pólo Macaúbas': Convite/formandos-polo-macaubas.md
-        - 'Formandos Pólo Rio Real': Convite/formandos-polo-rio-real.md
-        - 'Formandos Pólo Vitória da Conquista': Convite/formandos-polo-vitoria-da-conquista.md
+        - 'Formandos Polo Sapeaçu': Convite/formandos-polo-sapeacu.md
+        - 'Formandos Polo Ipirá ': Convite/formandos-polo-ipira.md
+        - 'Formandos Polo Macaúbas': Convite/formandos-polo-macaubas.md
+        - 'Formandos Polo Rio Real': Convite/formandos-polo-rio-real.md
+        - 'Formandos Polo Vitória da Conquista': Convite/formandos-polo-vitoria-da-conquista.md
         - 'Mensagem Comissão': Convite/mensagem-comissao.md
         - 'Mensagem Final': Convite/mensagem-final.md
 theme:

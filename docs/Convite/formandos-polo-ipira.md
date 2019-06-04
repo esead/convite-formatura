@@ -90,7 +90,7 @@ div.c {
 <center> 
 
 
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Pólo de Ipirá</strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Polo de Ipirá</strong></font></h1>
 
 
 <br>
@@ -103,7 +103,7 @@ div.c {
 
 <div class="c"><strong>Colação de Grau: 13 de junho de 2019 às 19h.</strong></div>
 
-<h3 style="color:#38425B;"><strong>Local: Pólo de Ipirá.</strong></h3>
+<h3 style="color:#38425B;"><strong>Local: Polo de Ipirá.</strong></h3>
 
 
 <div class="column">

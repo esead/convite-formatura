@@ -90,7 +90,7 @@ div.c {
 <center> 
 
 
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Pólo Rio Real</strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Polo Rio Real</strong></font></h1>
 
 <div class="card">
 <img src="../imagens/rio_real.png" alt="Avatar" style="width:100%">

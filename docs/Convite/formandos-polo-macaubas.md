@@ -90,7 +90,7 @@ div.c {
 <center><img src="../imagens/turma2.png" style="width:20%"/></center>
 
 
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Pólo de Macaúbas</strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Polo de Macaúbas</strong></font></h1>
 
 <div class="card">
 <img src="../imagens/macaubas.png" alt="Avatar" style="width:100%">
@@ -100,7 +100,7 @@ div.c {
 
 <div class="c"><strong>Colação de Grau: 12 de junho de 2019 às 18h.</strong></div>
 
-<h3 style="color:#38425B;"><strong>Local: Pólo de Macaúbas.</strong></h3>
+<h3 style="color:#38425B;"><strong>Local: Praça 6 de Julho. Clube Social e Recreativo de Macaúbas - Centro. Macaúbas - BA. </strong></h3>
 
 
 <div class="column">
