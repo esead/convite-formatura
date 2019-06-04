@@ -97,11 +97,9 @@ div.c {
 </div>
 
 <br> 
-
 <div class="c"><strong>Colação de Grau: 12 de junho de 2019 às 18h.</strong></div>
 
 <h3 style="color:#38425B;"><strong>Local: Praça 6 de Julho. Clube Social e Recreativo de Macaúbas - Centro. Macaúbas - BA. </strong></h3>
-
 
 <div class="column">
     <div class="card2">

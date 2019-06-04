@@ -80,8 +80,6 @@ div.c {
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Polo Sapeaçu</strong></font></h1>
 
-
-
 <center> 
 <div class="c"><strong>Colação de Grau: 10 de junho de 2019 às 14h.</strong></div>
 
