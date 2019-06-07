@@ -103,7 +103,7 @@ div.c {
 
 <div class="c"><strong>Colação de Grau: 13 de junho de 2019 às 19h.</strong></div>
 
-<h3 style="color:#38425B;"><strong>Local: Coodenadoria de Educação, rua Henrique Praga S/n. Ponto de referência: entrada da cidade rua do centro médico sentido.  Ipirá-BA.</strong></h3>
+<h3 style="color:#38425B;"><strong>Local: Coodenadoria de Educação, rua Henrique Praga S/n. Ponto de referência: entrada da cidade rua do centro médico.  Ipirá-BA.</strong></h3>
 
 
 <div class="column">

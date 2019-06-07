@@ -69,7 +69,7 @@ body {
 <h2><strong>Funcionários Homenageados</strong>
 
 <p> Jamile Machado da França Saturnino </p>
-<p> Ramistela Lima Santana</p>
+<p>Mônica Leite Pires</p>
 <p>Lindamara Caires Silva de Almeida</p>
 <p>Jonaldo Silva de Souza</p>
 <p>Rita de Cássia dos Santos Leandro de Freitas</p>
