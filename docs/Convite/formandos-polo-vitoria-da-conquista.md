@@ -80,6 +80,10 @@ div.c {
 
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>Formandos Polo Vitória da Conquista</strong></font></h1>
 
+<div class="card">
+<img src="../imagens/vitoria_conquista.png" alt="Avatar" style="width:100%">
+</div>
+
 
 <br> 
 <center> 
