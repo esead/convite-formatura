@@ -30,7 +30,7 @@ body {
 <h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="12"><strong>Agradecimentos</strong></font></h1>
 
  
-<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>À Deus</strong></font></h1>
+<h1 style="font-family:'Dancing Script', cursive; color:#38425B;"><font size="8"><strong>A Deus</strong></font></h1>
 
 <p style="text-align: justify;">
  Falar de Deus, é falar de amor, amor esse infinito, único, fiel e verdadeiro. Foi por amor que Ele nos concedeu a vida, nos permitiu estarmos aqui hoje para juntos celebrarmos mais uma vitória em nossas vidas.  </p>
