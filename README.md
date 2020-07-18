@@ -1,27 +1,20 @@
-# Baseball-Stats.net
+# Convite de Formatura da Turma 1 de 2018.2 do Curso de Licenciatura em Matemática EaD da Universidade Federal do Recôncavo da Bahia
 
-A web reference of common baseball statistics.
+O curso de Licenciatura em Matemática na modalidade a distância é um curso de graduação ofertado pela Universidade Federal do 
+Recôncavo da Bahia - UFRB. Está vínculado ao **Centro de Ciências Exatas e Tecnológicas - CETEC** e tem a **Superintendência de Educação Aberta e a Distância - SEAD** como o órgão responsável pela operalização do curso com o fornecimento do Ambiente de Aprendizagem, processos de seleção de tutores, professores trabalhando conjuntamente com os polos e o centro de ensino. 
 
-Built using [MkDocs](http://www.mkdocs.org) and the [Material](http://squidfunk.github.io/mkdocs-material/) theme.
+Acesse o convite em: [Convite Virtual](esead.github.io/convite-formatura)
 
-## Installation
+Acesse o site da [SEAD](https://ufrb.edu.br/sead) e tenha mais informações. 
 
-```
-git clone https://github.com/nodesocket/baseball-stats.net.git
-cd baseball-stats.net
-pip install mkdocs mkdocs-material pymdown-extensions markdown-include
-```
+## Links importantes 
 
-## Local development *(with auto-reload)*
+[Centro de Ciências Exatas e Tecnológicas](htttps://ufrb.edu.br/cetec) 
 
-```
-mkdocs serve
-```
+[Curso de Licenciatura em Matemática EaD](https://www2.ufrb.edu.br/lmatead/)
 
-## Production build
 
-Into the `build/` directory.
+## Produção 
+Esté repositório foi produzido pelo Núcleo de Mídias/SEAD.
 
-```
-mkdocs build
-```
+
